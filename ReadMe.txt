@@ -1,1 +1,1 @@
-ReadMe.doc contains detail explanations about this code sample. 
+ReadMe.docx contains detail explanations about this code sample. 
